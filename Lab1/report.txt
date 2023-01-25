@@ -1,0 +1,74 @@
+
+Активные подключения
+
+  Имя    Локальный адрес        Внешний адрес          Состояние
+  TCP    0.0.0.0:135            DESKTOP-VOPKTQL:0      LISTENING
+  RpcEptMapper
+ [svchost.exe]
+  TCP    0.0.0.0:445            DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:3306           DESKTOP-VOPKTQL:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:5040           DESKTOP-VOPKTQL:0      LISTENING
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:7680           DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:33060          DESKTOP-VOPKTQL:0      LISTENING
+ [mysqld.exe]
+  TCP    0.0.0.0:49664          DESKTOP-VOPKTQL:0      LISTENING
+ [lsass.exe]
+  TCP    0.0.0.0:49665          DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    0.0.0.0:49666          DESKTOP-VOPKTQL:0      LISTENING
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          DESKTOP-VOPKTQL:0      LISTENING
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          DESKTOP-VOPKTQL:0      LISTENING
+ [spoolsv.exe]
+  TCP    0.0.0.0:49669          DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    127.0.0.1:28392        DESKTOP-VOPKTQL:0      LISTENING
+ [qbittorrent.exe]
+  TCP    127.0.0.1:49670        DESKTOP-VOPKTQL:49671  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49671        DESKTOP-VOPKTQL:49670  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49672        DESKTOP-VOPKTQL:49673  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:49673        DESKTOP-VOPKTQL:49672  ESTABLISHED
+ [mysqld.exe]
+  TCP    127.0.0.1:58969        DESKTOP-VOPKTQL:58970  ESTABLISHED
+ [qbittorrent.exe]
+  TCP    127.0.0.1:58970        DESKTOP-VOPKTQL:58969  ESTABLISHED
+ [qbittorrent.exe]
+  TCP    172.30.48.1:139        DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    172.30.48.1:28392      DESKTOP-VOPKTQL:0      LISTENING
+ [qbittorrent.exe]
+  TCP    192.168.20.72:139      DESKTOP-VOPKTQL:0      LISTENING
+ Не удается получить сведения о владельце
+  TCP    192.168.20.72:28392    DESKTOP-VOPKTQL:0      LISTENING
+ [qbittorrent.exe]
+  TCP    192.168.20.72:56764    20.199.120.151:https   ESTABLISHED
+ [OneDrive.exe]
+  TCP    192.168.20.72:58596    152.199.19.161:https   ESTABLISHED
+ [SearchApp.exe]
+  TCP    192.168.20.72:58601    8.241.46.121:http      TIME_WAIT
+  TCP    192.168.20.72:58602    52.109.89.14:https     TIME_WAIT
+  TCP    192.168.20.72:58603    20.54.232.160:https    ESTABLISHED
+  CDPUserSvc_3b62e79
+ [svchost.exe]
+  TCP    192.168.20.72:59570    yandex:https           ESTABLISHED
+ [chrome.exe]
+  TCP    192.168.20.72:62321    149.154.167.41:https   ESTABLISHED
+ [Telegram.exe]
+  TCP    192.168.20.72:62330    20.199.120.151:https   ESTABLISHED
+  WpnService
+ [svchost.exe]
+  TCP    192.168.20.72:62344    wk-in-f188:5228        ESTABLISHED
+ [chrome.exe]
